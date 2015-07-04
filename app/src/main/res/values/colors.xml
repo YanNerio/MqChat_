@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#00B0FF</color>
+    <color name="accent">#40C4FF</color>
+    <color name="ripple">#E1F5FE</color>
+    <color name="tertiary">#455561</color>
+    <color name="background">#FFFFFF</color>
+    <color name="textColorPrimary">#323232</color>
+    <color name="textColorSecondary">#434343</color>
+    <color name="transparent_actionbar_background">#24000000</color>
+
+    <!-- MINI FAB -->
+    <color name="colorNormalMini">#00B0FF</color>
+    <color name="colorPressedMini">#40C4FF</color>
+    <color name="colorRippleMini">#E1F5FE</color>
+
+    <!-- BACKGROUND DETAIL -->
+    <color name="greenColor1">#41AB97</color>
+    <color name="finanzasColor">#FEC246</color>
+    <color name="espiritualColor">#72C68B</color>
+    <color name="profesionalColor">#EC6B56</color>
+    <color name="materialColor">#462445</color>
+
+
+
+    <color name="backgroundColor">#fffaf8fe</color>
+    <color name="backgroundColorPress">#E1F5FE</color>
+
+    <color name="red">#FF3B00</color>
+    <color name="naranja">#ffffbf71</color>
+    <color name="red_press">#990000</color>
+    <color name="dark_gray">#4C535B</color>
+    <color name="dark_gray_press">#ff7e8a97</color>
+</resources>

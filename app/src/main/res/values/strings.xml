@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MqChat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Actividades -->
+    <string name="title_activity_update">Editar Tema</string>
+    <string name="title_activity_detail">Detalle</string>
+    <string name="title_activity_insert">Crear Nuevo Tema</string>
+
+    <!-- Action Buttons -->
+    <string name="action_delete">Borrar</string>
+    <string name="action_discard">Descartar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_done">Guardar</string>
+
+    <!-- Categorías -->
+    <string-array name="entradas_categoria">
+        <item>Salud</item>
+        <item>Finanzas</item>
+        <item>Espiritual</item>
+        <item>Profesional</item>
+        <item>Material</item>
+    </string-array>
+
+    <!-- Prioridades -->
+    <string-array name="entradas_estado">
+        <item>Activo</item>
+        <item>Inactivo</item>
+
+    </string-array>
+
+    <!-- Diálogos -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_discard_msg">¿Descartar Cambios?</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_delete_msg">Se eliminará el tema</string>
+</resources>
